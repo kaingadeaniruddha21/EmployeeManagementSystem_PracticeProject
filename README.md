@@ -1,1 +1,1 @@
-# EmployeeManagementSystem_PracticeProject
+# Employee&DepartmentManagementSystem_PracticeProject
